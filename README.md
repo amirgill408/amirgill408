@@ -1,5 +1,5 @@
 - 👋 Hi, everyone, i am Amir Gill
-- 👀 I’m interested in Network Engineer Job
+- 👀 I’m interested in Network Engineer opening
 - 🌱 I’m currently learning Nextgen Firewalls Palo Alto and Python for Networks
 - 💞️ I’m looking to collaborate on Network projects like configurations of routers,switches and firewalls
 - 📫 How to reach me gillamir@student.foothill.edu, amirgill@gmx.com
